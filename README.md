@@ -33,13 +33,13 @@ A personal portfolio website showcasing my web development projects and achievem
 
 ## 📈 Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=calebborst&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=calebborst&show_icons=true&theme=dark)
 
 ### 🌟 More Stats
-![Total Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=calebborst&theme=vue)
+![Total Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=calebborst&theme=dark)
 
 ### 📊 Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=calebborst&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=calebborst&layout=compact&theme=dark)
 
 ## 📫 How to Reach Me
 - **LinkedIn**: [LinkedIn]([https://www.linkedin.com/in/calebborst](https://www.linkedin.com/in/caleb-b-0b510a281/))
