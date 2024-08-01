@@ -43,7 +43,7 @@ A personal portfolio website showcasing my web development projects and achievem
 
 ## 📫 How to Reach Me
 - **LinkedIn**: [LinkedIn]([https://www.linkedin.com/in/calebborst](https://www.linkedin.com/in/caleb-b-0b510a281/))
-- **Email**: `calebborst@gmail.com`
+- **Email**: `calebb@stargaze.lol`
 
 ---
 
